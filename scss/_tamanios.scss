@@ -1,0 +1,42 @@
+$parrafoDesktop:18px;
+$parrafoMobile:20px;
+$h1Desktop:40px;
+$h1Mobile:30px;
+
+.tituloI {
+      font-size:$h1Desktop;}
+
+.textoI {
+	font-size:$parrafoDesktop;}
+
+.tituloH {
+	font:{
+	size:$h1Desktop;
+	style:normal;
+	family:nunito;}}
+
+.articuloH {
+	font:{
+	size:$parrafoDesktop;
+	style:normal;
+	family:nunito;}}
+
+.tituloCs {
+	font:{
+	size:$h1Desktop;
+	style:normal;
+	family:nunito;}}
+
+.articuloCs {
+	font:{
+	size:$parrafoDesktop;
+	style:normal;
+	family:nunito;}}
+
+.tituloC {
+	font:{
+	size:$h1Desktop;
+	style:normal;
+	family:nunito;}}
+
+

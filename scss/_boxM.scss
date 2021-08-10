@@ -1,0 +1,54 @@
+@import "tamanios";
+@import "colores";
+$padding:0px;
+$margin:0px;
+$textocentrado:center;
+$paddingtop:50px;
+$paddingbottom:50px;
+
+
+.container-fluid {
+	margin:{
+		top:$margin;
+		bottom:$margin;
+		left:$margin;
+		right:$margin;
+
+		font:{
+		size:$h1Desktop;
+		style:normal;
+		family:nunito;}
+	}
+    padding:{
+	    left:$padding;
+	    right:$padding;
+	}
+     }
+
+.footerBg h3 {
+      text-align:$textocentrado;}
+
+
+.paddingTB{
+      padding-top: $paddingtop;
+      padding-bottom:$paddingbottom;}
+
+.tituloI {
+	text-align:$textocentrado;}
+
+.icono {
+	text-align:$textocentrado;
+	transform: translateY(35px);}
+
+
+.tituloH {
+	text-align:$textocentrado;}
+
+
+.tituloCs {
+	text-align:$textocentrado;}
+
+.articuloC {
+	text-align:$textocentrado}
+
+
