@@ -31,6 +31,10 @@ footer {
   padding-top: 50px;
   padding-bottom: 50px; }
 
+.padding {
+  padding-top: 10px;
+  padding-bottom: 10px;} 
+
 .tituloI {
   text-align: center; }
 
@@ -91,4 +95,4 @@ footer {
   font-style:normal;
   font-family:nunito;}
 
-.centro {align-items: center;i}
+.centro {align-items: center;}
