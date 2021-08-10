@@ -10,6 +10,9 @@
   font-style:normal;
   font-family:nunito;}
 
+.tituloN {
+  text-transform: uppercase;}
+
 footer {
   display: flex; }
 
