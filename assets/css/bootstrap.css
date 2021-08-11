@@ -2513,6 +2513,7 @@ textarea.form-control {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+
   background-color: transparent;
   border: 1px solid transparent;
   padding: 0.375rem 0.75rem;
@@ -2552,15 +2553,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  color: #B36A5E;
+  background-color: #fff;
+  border-color: #B36A5E;
 }
 
 .btn-primary:hover {
-  color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  color: #B36A5E;
+  background-color: #B36A5E;
+  border-color: #B36A5E;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -4797,8 +4798,13 @@ input[type="button"].btn-block {
 }
 
 .card-title {
+  display: flex;
   margin-bottom: 0.75rem;
-}
+  justify-content: center;
+  text-transform: uppercase;
+  font-family: nunito;
+  color: #B36A5E;
+  font-size: 18px;}
 
 .card-subtitle {
   margin-top: -0.375rem;
