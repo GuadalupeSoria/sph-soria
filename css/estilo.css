@@ -72,13 +72,13 @@ footer {
 
 .tituloH {
   color:black;
-  background-color:#E1E1E1;}
+  background-color: rgba(225, 225, 225, 0.6);}
 
 .tituloCs {
   color:#B36A5E;}
 
 .tituloC {
-  color:#B36A5E;}
+  color: black;}
 
 .tituloH {
   font-size:20px;
@@ -104,7 +104,10 @@ footer {
 .tituloC {
   font-size:40px;
   font-style:normal;
-  font-family:nunito;}
+  font-family:nunito;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.9);}
 
 .centro { 
   display: flex;
