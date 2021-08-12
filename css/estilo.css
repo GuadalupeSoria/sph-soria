@@ -32,7 +32,9 @@ footer {
 
 .paddingTB {
   padding-top: 50px;
-  padding-bottom: 50px; }
+  padding-bottom: 50px;
+  padding-left: 0px;
+  padding-right: 0px; }
 
 .paddingLR {
   padding-left: 10px;
@@ -109,8 +111,12 @@ footer {
   justify-content: center;
   transform: translateY(35px);}
 
-.articuloCs {
-  background-image:url(../assets/img/fondocs.png) ;}
+
+.imgCs {
+  background-image: url(../assets/img/fondocs.png);
+}
+
+
 
 
 
