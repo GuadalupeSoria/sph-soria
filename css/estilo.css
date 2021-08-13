@@ -36,6 +36,12 @@ footer {
   padding-left: 0px;
   padding-right: 0px; }
 
+.paddingT {
+  padding-top: 10px;
+  padding-bottom: 70px;
+  padding-left: 0px;
+  padding-right: 0px; }
+
 .paddingLR {
   padding-left: 10px;
   padding-right: 10px;}
@@ -118,10 +124,19 @@ footer {
 .imgCs {
   background-image: url(../assets/img/fondocs.png);}
 
+.imgF {
+  background-image: url(../assets/img/fondoH.png);}
+
+
 .tamañoIcono {
   transition: height: 3s;}
 
 .tamañoIcono:hover{height: 44px; width: 44px;}
+
+.tamañoProductos{
+  transition: height: 3s;}
+
+.tamañoProductos:hover{height: 390px;}
 
 
 
