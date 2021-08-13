@@ -48,8 +48,8 @@ footer {
   text-align: center; }
 
 .icono {
-    text-align: center;
-    transform: translateY(35px);}
+    justify-content: space-around;
+    transform: translateY(12px);}
 
 
 .tituloH {
@@ -116,8 +116,12 @@ footer {
 
 
 .imgCs {
-  background-image: url(../assets/img/fondocs.png);
-}
+  background-image: url(../assets/img/fondocs.png);}
+
+.tamañoIcono {
+  transition: height: 3s;}
+
+.tamañoIcono:hover{height: 44px; width: 44px;}
 
 
 
