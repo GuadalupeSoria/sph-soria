@@ -93,7 +93,7 @@ footer {
   text-transform: uppercase;}
 
 .articuloH {
-  font-size:17px;
+  font-size:21px;
   font-style:normal;
   font-family:nunito;
   color: black;}
@@ -120,6 +120,11 @@ footer {
   display: flex;
   justify-content: center;
   transform: translateY(35px);}
+
+.center {
+  padding-left:50px ;
+  padding-right: 50px;}
+
 
 
 .imgCs {
