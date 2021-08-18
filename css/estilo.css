@@ -101,7 +101,9 @@ footer {
   font-size:21px;
   font-style:normal;
   font-family:nunito;
-  color: black;}
+  color: black;
+  text-align: center;}
+  
 
 .tituloCs {
   font-size:40px;
@@ -150,10 +152,6 @@ footer {
 
 .imgCs {
   background-image: url(../assets/img/fondocs.png);}
-
-.imgF {
-  background-image: url(../assets/img/fondoH.png);}
-
 
 .tamañoIcono {
   transition: height: 3s;}
