@@ -50,6 +50,10 @@ footer {
   padding-top: 10px;
   padding-bottom: 10px;} 
 
+.paddingB {
+  padding-top: 40px;
+}
+
 .tituloI {
   text-align: center; }
 
@@ -116,15 +120,23 @@ footer {
   text-align: center;
   background-color: rgba(255, 255, 255, 0.9);}
 
+.copy {
+   font-size: 15px;
+   font-family: nunito;
+   text-align: center;
+   font-weight: bold;}
+
+.copy2 {
+   font-size: 15px;
+   font-family: nunito;
+   text-align: center;
+   font-weight: bold;
+   color: #B36A5E;}
+
 .centro { 
   display: flex;
   justify-content: center;
   transform: translateY(35px);}
-
-.center {
-  padding-left:50px ;
-  padding-right: 50px;}
-
 
 
 .imgCs {
