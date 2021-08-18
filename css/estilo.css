@@ -3,12 +3,7 @@
 
 .tituloI {
   font-size: 25px;
-  text-transform: uppercase; }
-
-.textoI {
-  font-size: 18px; 
-  font-style:normal;
-  font-family:nunito;}
+  text-transform: uppercase; } 
 
 .tituloN {
   text-transform: uppercase;}
@@ -64,9 +59,6 @@ footer {
 
 .tituloH {
   text-align:center;}
-
-.textoI {
-  text-align: center;}
 
 .tituloCs {
   text-align:center;}
