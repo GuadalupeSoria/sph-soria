@@ -103,7 +103,7 @@ footer {
   font-family:nunito;
   color: black;
   text-align: center;}
-  
+
 
 .tituloCs {
   font-size:40px;
@@ -188,7 +188,7 @@ body {
 .modal,
 .fade,
 .show {
-    background-color:#EEE2DF ;
+    background-color:#fff ;
     padding-left: 15px;
     padding-right: 15px
 }
